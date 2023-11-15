@@ -1,8 +1,7 @@
-### Hi there 👋, 
-### I'm Apurbo Mondal
-#### Web Developer
 ![Web Developer](https://i.ibb.co/7nS2D14/Pro-Developers-Colorful-Dark-Gray-Orange-Linked-In-Banner.png)
 
+### I'm Apurbo Mondal
+#### Web Developer
 👋 Hello there! I'm Apurbo Mondal, a passionate web developer with a knack for turning ideas into interactive and engaging digital experiences. I specialize in JavaScript, React.js, Node.js and I'm always excited to explore new tools and technologies to enhance my skill set.
 
 Skills: REACT / JS / HTML / CSS / Express / Mongodb / Node /
