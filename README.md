@@ -1,4 +1,4 @@
-![Web Developer]([https://i.ibb.co.com/mCR6Qd6f/github.png](https://i.ibb.co/7nS2D14/Pro-Developers-Colorful-Dark-Gray-Orange-Linked-In-Banner.png))
+![Web Developer](https://i.ibb.co/7nS2D14/Pro-Developers-Colorful-Dark-Gray-Orange-Linked-In-Banner.png)
 
 ### This is Apurbo Mondal
 #### Web Developer
