@@ -1,5 +1,5 @@
-![Web Developer](https://i.ibb.co/7nS2D14/Pro-Developers-Colorful-Dark-Gray-Orange-Linked-In-Banner.png)
-
+![Web Developer](https://i.ibb.co.com/NqgYByF/Apurbo-Mondal.png)
+<img src="https://i.ibb.co.com/NqgYByF/Apurbo-Mondal.png" alt="Apurbo-Mondal" border="0">
 ### This is Apurbo Mondal
 #### Web Developer
 👋 I'm a dedicated full-stack web developer of hands-on experience in
