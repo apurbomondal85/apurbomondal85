@@ -1,13 +1,18 @@
-![Web Developer](https://i.ibb.co/7nS2D14/Pro-Developers-Colorful-Dark-Gray-Orange-Linked-In-Banner.png)
+![Web Developer](https://i.ibb.co.com/mCR6Qd6f/github.png)
 
 ### This is Apurbo Mondal
 #### Web Developer
-👋 Hello there! I'm Apurbo Mondal, a passionate web developer with a knack for turning ideas into interactive and engaging digital experiences. I specialize in JavaScript, React.js, Node.js and I'm always excited to explore new tools and technologies to enhance my skill set.
+👋 I'm a dedicated full-stack web developer of hands-on experience in
+building dynamic and responsive web applications. I specialize in Laravel and PHP
+on the backend, and have solid experience with React and Vue.js on the frontend. I
+enjoy solving real-world problems through clean, maintainable code and efficient
+development practices. I'm comfortable working in collaborative environments,
+continuously learning new tools and technologies, and committed to delivering
+scalable, user-focused solutions.
 
-Skills: REACT / JS / HTML / CSS / Express / Mongodb / Node /
+Skills: Laravel / PHP / React.js / Vue.js / Mysql / Mongodb / Node /
 
-- 🔭 I’m currently working on Front end developer 
-- 🌱 I’m currently learning javascript 
+- 🔭 I’m currently working on Full stack developer 
 - 👯 I’m looking to collaborate on Github 
 
 
